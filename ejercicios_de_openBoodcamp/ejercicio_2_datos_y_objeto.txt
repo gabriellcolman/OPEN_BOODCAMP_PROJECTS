@@ -1,0 +1,16 @@
+//informacion sobre mi 
+
+const nombre = "gabriel colman";
+const edad = 28;
+const eres_desarrollador = true;
+const fecha_nac = new Date ("march 25 2020");
+//objeto, tipo libro.
+
+const libro_fav = {
+    titulo: "cronicas de una muerte anunciada",
+    autor: "Gabriel Garcia Marquez",
+    fecha_de_creacion: 1981,
+    URL: "https://es.wikipedia.org/wiki/Cr%C3%B3nica_de_una_muerte_anunciada",
+}
+
+
